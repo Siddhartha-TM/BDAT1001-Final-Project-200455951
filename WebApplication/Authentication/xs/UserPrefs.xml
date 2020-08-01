@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{B8E937E7-A303-42D8-87D9-149877D9967A}|Default">
+  <MonoDevelop.Ide.ItemProperties.oauth.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.oauth.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api/Startup.cs">
+    <Files>
+      <File FileName="Api/Startup.cs" Line="28" Column="13" />
+      <File FileName="Client/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Authentication" expanded="True">
+            <Node name="basic" expanded="True">
+              <Node name="Basics" expanded="True" />
+              <Node name="IdentityExample" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="oauth" expanded="True">
+              <Node name="Api" expanded="True">
+                <Node name="Startup.cs" selected="True" />
+              </Node>
+              <Node name="Client" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+              <Node name="Server" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.oauth.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.basic.Basics PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{755294D1-6EBD-4482-BBC6-AAD99FA9E87F}" ItemName="Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{A026B63D-D285-4F91-8477-F3C12DF0D66F}" ItemName="Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{55A68F97-BFB8-4AD9-8E55-F6EE4B622B83}" ItemName="Server" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{755294D1-6EBD-4482-BBC6-AAD99FA9E87F}" ItemName="Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{A026B63D-D285-4F91-8477-F3C12DF0D66F}" ItemName="Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{55A68F97-BFB8-4AD9-8E55-F6EE4B622B83}" ItemName="Server" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

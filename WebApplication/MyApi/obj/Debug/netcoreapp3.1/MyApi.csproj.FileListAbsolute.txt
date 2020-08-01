@@ -1,0 +1,80 @@
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.exe
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.deps.json
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.runtimeconfig.json
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.runtimeconfig.dev.json
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.pdb
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.Views.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.Views.pdb
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.AssemblyInfoInputs.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.AssemblyInfo.cs
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorAssemblyInfo.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorAssemblyInfo.cs
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.TagHelpers.input.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.TagHelpers.output.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorCoreGenerate.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorTargetAssemblyInfo.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorTargetAssemblyInfo.cs
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.Views.pdb
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\staticwebassets\MyApi.StaticWebAssets.Manifest.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\staticwebassets\MyApi.StaticWebAssets.xml
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.dll
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.pdb
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.genruntimeconfig.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.csproj.CopyComplete
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.csprojAssemblyReference.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Secure API\WebApplication\MyApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.csproj.CoreCompileInputs.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Secure API\WebApplication\MyApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.exe
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.deps.json
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.runtimeconfig.json
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.runtimeconfig.dev.json
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.pdb
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.Views.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\MyApi.Views.pdb
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Nital Project _ Final\WebApplication\MyApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.csprojAssemblyReference.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.AssemblyInfoInputs.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.AssemblyInfo.cs
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.csproj.CoreCompileInputs.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorAssemblyInfo.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorAssemblyInfo.cs
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.TagHelpers.input.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.TagHelpers.output.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorCoreGenerate.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorTargetAssemblyInfo.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.RazorTargetAssemblyInfo.cs
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.Views.pdb
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.csproj.CopyComplete
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\staticwebassets\MyApi.StaticWebAssets.Manifest.cache
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\staticwebassets\MyApi.StaticWebAssets.xml
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.dll
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.pdb
+D:\Nital Project _ Final\WebApplication\MyApi\obj\Debug\netcoreapp3.1\MyApi.genruntimeconfig.cache
